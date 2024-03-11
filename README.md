@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Front-end developer with over 2.5 years of hands-on experience in React and Next.js.<br>I also have the experience of using Material UI, Tailwind and Bootstrap to increase the speed of styling.<br>Skilled in building responsive and user-friendly web applications, I have a strong understanding of<br>modern front-end development principles and best practices. I am enthusiastic about actively<br>participating in team collaborations.
+Experienced Front-end developer with over 3 years of hands-on experience in React and Next.js.<br>I also have the experience of using Material UI, Tailwind and Bootstrap to increase the speed of styling.<br>Skilled in building responsive and user-friendly web applications, I have a strong understanding of<br>modern front-end development principles and best practices. I am enthusiastic about actively<br>participating in team collaborations.
 <br>
 <br>
 👯 I’m looking to collaborate on an open source project<br>💬 Ask me about Front-End Development<br>📫 How to reach me **amirhossein.mir98@gmail.com**<br>
